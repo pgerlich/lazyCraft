@@ -1,0 +1,19 @@
+[04:55:18] [User Authenticator #70/INFO]: UUID of player Toufer is d468afc9-9ae9-4669-a280-4086ee45ae0d
+[04:55:18] [Server thread/INFO]: Toufer[/174.87.19.151:49394] logged in with entity id 421275 at (-662.2561439712367, 73.0, 578.2006485734931)
+[04:55:18] [Server thread/INFO]: Toufer joined the game
+[04:58:21] [Server thread/WARN]: Toufer moved wrongly!
+[05:07:07] [Server thread/INFO]: Toufer lost connection: Disconnected
+[05:07:07] [Server thread/INFO]: Toufer left the game
+[15:53:41] [Server thread/WARN]: Failed to check session lock, aborting
+[15:53:41] [Server thread/WARN]: Failed to check session lock, aborting
+[15:53:41] [Server thread/WARN]: Failed to check session lock, aborting
+[15:53:41] [Server thread/INFO]: [STDERR]: java.io.FileNotFoundException: ./ModWorld/level.dat_new (No such file or directory)
+[15:53:41] [Server thread/INFO]: [STDERR]: 	at java.io.FileOutputStream.open0(Native Method)
+[15:53:41] [Server thread/INFO]: [STDERR]: 	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+[15:53:41] [Server thread/INFO]: [STDERR]: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+[15:53:41] [Server thread/INFO]: [STDERR]: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:162)
+[15:53:41] [Server thread/INFO]: [STDERR]: 	at coh.a(SourceFile:66)
+[15:53:41] [Server thread/INFO]: [STDERR]: 	at net.minecraft.server.MinecraftServer.a(SourceFile:538)
+[15:53:41] [Server thread/INFO]: [STDERR]: 	at net.minecraft.server.MinecraftServer.a(SourceFile:782)
+[15:53:41] [Server thread/INFO]: [STDERR]: 	at net.minecraft.server.MinecraftServer.run(SourceFile:631)
+[15:53:41] [Server thread/INFO]: [STDERR]: 	at java.lang.Thread.run(Thread.java:748)
